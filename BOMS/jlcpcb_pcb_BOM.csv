@@ -1,4 +1,4 @@
-\xef\xbb\xbfDesignator,Per Board Qty,Order Qty,Description,MPN,LCSC Part #,Type,Supplier,Line Price (USD)
+\Designator,Per Board Qty,Order Qty,Description,MPN,LCSC Part #,Type,Supplier,Line Price (USD)
 "C1, C2",2,4,15pF 0603 50V C0G,CL10C150JB8NNNC,C1644,Basic,JLCPCB,0.0452
 "C3, C4, C5",3,6,4.7µF 0603 16V,CL10A475KO8NNNC,C19666,Basic,JLCPCB,0.1770
 "C6, C7",2,4,10µF 0805 25V,CL21A106KAYNNNE,C15850,Basic,JLCPCB,0.2604
