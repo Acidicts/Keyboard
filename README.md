@@ -28,3 +28,10 @@ Sooo, this is a keyboard with a fun little oled display (via i2c) and rotary enc
 3. Drag and drop the downloaded UF2 file onto the `RPI-RP2` drive. The board will reboot and show up as a USB drive called `CIRCUITPY`.
 4. drag and drop the contents of the [`firmware`](./firmware) folder onto the `CIRCUITPY` drive.
 5. Restart the board and it should now be ready to use.
+
+### BOMs
+| Name | Link |
+| --- | --- |
+| PCBA (included in addition parts) | [here](./BOMS/jlcpcb_pcb_BOM.csv) |
+| LCSC List (included in addition parts) | [here](./BOMS/LCSC_BOM.csv) |
+| Additional Parts | [here](./BOMS/Extra_Part_BOM.csv) |
