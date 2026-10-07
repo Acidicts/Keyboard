@@ -24,6 +24,7 @@ Sooo, this is a keyboard with a fun little oled display (via i2c) and rotary enc
 
 ### Case
 [case](/case/Case.step)
+[https://a360.co/476DL3y](https://a360.co/476DL3y)
 
 ### Firmware
 1. Download the latest release of circuitpython from [here](https://downloads.circuitpython.org/bin/seeeduino_xiao_rp2040/en_GB/adafruit-circuitpython-seeeduino_xiao_rp2040-en_GB-10.3.0.uf2)
