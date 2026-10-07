@@ -14,7 +14,8 @@ Sooo, this is a keyboard with a fun little oled display (via i2c) and rotary enc
 
 ### Assembly
 - The case is a bit bigger than most 3d printers so you may need a 3rd party service for it
-- Any ansi keycap set compatible with 75% keyboards should work, and feel free to swap the `@` and `"` back if you prefer it that way
+- Any ansi keycap set compatible with 75% keyboards should work i have not included price for them as you can make them in many ways,  either buy, 3d print, etc
+- feel free to swap the `@` and `"` back if you prefer it that way just edit the [main.py](/firmware/main.py)
 1. I recommend using PCBA for the top layer as those parts may be difficult to solder
 2. On arrival of your half made pcb, start with soldering on the diodes facing in the direction of the silkscreen diagram
 3. After solder on the rgb leds matching the notch up to the silkscreen too
