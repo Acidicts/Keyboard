@@ -22,6 +22,9 @@ Sooo, this is a keyboard with a fun little oled display (via i2c) and rotary enc
 7. Put the pcb in the case
 8. use a m3 screw to firmly mount to case but be wary of the underneath components so use spacers for it
 
+### Case
+[case](/case/Case.step)
+
 ### Firmware
 1. Download the latest release of circuitpython from [here](https://downloads.circuitpython.org/bin/seeeduino_xiao_rp2040/en_GB/adafruit-circuitpython-seeeduino_xiao_rp2040-en_GB-10.3.0.uf2)
 2. whilst powering the board (by plugging in usbc) hold down the boot button(labelled as `SW1` and plug it into your computer. The board should show up as a USB drive called `RPI-RP2` or something similar.
