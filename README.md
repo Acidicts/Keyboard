@@ -10,9 +10,11 @@ Sooo, this is a keyboard with a fun little oled display (via i2c) and rotary enc
 - Powered via usb-c
 - Wired keyboard
 - RP2354A (2MB on onboard memory)
+- RGB LEDS
 
 ### Assembly
 - The case is a bit bigger than most 3d printers so you may need a 3rd party service for it
+- Any ansi keycap set compatible with 75% keyboards should work, and feel free to swap the `@` and `"` back if you prefer it that way
 1. I recommend using PCBA for the top layer as those parts may be difficult to solder
 2. On arrival of your half made pcb, start with soldering on the diodes facing in the direction of the silkscreen diagram
 3. After solder on the rgb leds matching the notch up to the silkscreen too
