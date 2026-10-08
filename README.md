@@ -39,6 +39,6 @@ Sooo, this is a keyboard with a fun little oled display (via i2c) and rotary enc
 ### BOMs
 | Name | Link |
 | --- | --- |
-| PCBA (included in addition parts) | [here](./BOMS/jlcpcb_pcb_BOM.csv) |
+| Overview | [here](./BOM.csv) |
 | LCSC List (included in addition parts) | [here](./BOMS/LCSC_BOM.csv) |
-| Additional Parts | [here](./BOMS/Extra_Part_BOM.csv) |
+| PCBA Parts | [here](./BOMS/jlcpcb_pcb_BOM.csv) |
