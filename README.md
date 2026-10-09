@@ -1,5 +1,5 @@
 # Keyboard
-
+![assembly](<assets/Screenshot 2026-10-09 at 21.04.21.png>)
 <img width="928" height="478" alt="image" src="https://github.com/user-attachments/assets/c0e37ced-7282-4d68-af96-1306a1b99b62" />
 <img width="943" height="886" alt="Screenshot 2026-10-06 at 18 10 29" src="https://github.com/user-attachments/assets/c1622854-7cb4-44c2-8616-d82531954a9a" />
 <img width="967" height="519" alt="image" src="https://github.com/user-attachments/assets/e205b905-674b-49c5-9a3e-9fcf0132d3e4" />
@@ -11,6 +11,11 @@ Sooo, this is a keyboard with a fun little oled display (via i2c) and rotary enc
 - Wired keyboard
 - RP2354A (2MB on onboard memory)
 - RGB LEDS
+
+### Models
+- [Keyboard Assemble  (f3z)](.Assembly.f3z)
+- [Keyboard Case      (step)](./case/Case.step)
+- [Keyboard Top Plate (step)](./case/Top-Plate.step)
 
 ### Assembly
 - The case is a bit bigger than most 3d printers so you may need a 3rd party service for it
