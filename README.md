@@ -13,7 +13,8 @@ Sooo, this is a keyboard with a fun little oled display (via i2c) and rotary enc
 - RGB LEDS
 
 ### Models
-- [Keyboard Assemble  (f3z)](Assembly.f3z)
+- [Keyboard Assembly  (web)](https://a360.co/476DL3y)
+- [Keyboard Assembly  (f3z)](Assembly.f3z)
 - [Keyboard Case      (step)](./case/Case.step)
 - [Keyboard Top Plate (step)](./case/Top-Plate.step)
 
